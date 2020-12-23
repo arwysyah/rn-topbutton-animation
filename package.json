@@ -1,0 +1,31 @@
+{
+  "name": "rn-topbutton-animation",
+  "version": "1.0.0",
+  "description": "package for handling dynamic top button for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwysyah/react-native-topbutton-animation.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "javascript",
+    "top",
+    "button",
+    "animatiob",
+    "react-native",
+    "top",
+    "button"
+  ],
+  "author": "arwy syahputra siregar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwysyah/react-native-topbutton-animation/issues"
+  },
+  "homepage": "https://github.com/arwysyah/react-native-topbutton-animation#readme"
+}
