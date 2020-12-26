@@ -1,6 +1,6 @@
 {
   "name": "rn-topbutton-animation",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "package for handling dynamic top button for react native",
   "main": "index.js",
   "scripts": {
