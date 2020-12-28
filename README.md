@@ -1,4 +1,4 @@
-# react-native-topbutton-animation
+# rn-topbutton-animation
 
 <p align="center">
   <a href="https://reactjs.org/">
@@ -6,6 +6,7 @@
       alt="Node.js"
       src="https://i.udemycdn.com/course/750x422/1049092_8c52_2.jpg"
       width="200"
+      height='150'
     />
   </a>
 </p>
