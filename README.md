@@ -39,7 +39,7 @@ https://www.npmjs.com/package/rn-topbutton-animation
 ```bash
 
 ## Installation
-Version 1.0.6
+Version 1.0.7
 
 npm install rn-topbutton-animation --save
 
@@ -136,11 +136,11 @@ export default function Check({navigation}) {
 
 | Property    | Type                     | Description                       |
 | ----------- | ------------------------ | --------------------------------- |
-| renderItem1  | function  (required)              | render component   
-| renderItem2  | function  (required)              | render component  
-| renderItem3 | function    (optional)            | render component  
-| renderItem4  | function  (optional)              | render component                 |
-| booleanFunc | PropTypes.function       | update state item                 |
+| renderFirstItem  | function  (required)              | render component   
+| renderSecondItem  | function  (required)              | render component  
+| renderThirdItem | function    (optional)            | render component  
+| renderFourthItem  | function  (optional)              | render component                 |
+|            |
 |title        | PropTypes.Array (required) |button title
 
 note : the amount of render item must same with the length of title.
