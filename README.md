@@ -38,7 +38,7 @@ https://www.npmjs.com/package/rn-topbutton-animation
 ```bash
 
 ## Installation
-Version 1.0.4
+Version 1.0.6
 
 npm install rn-topbutton-animation --save
 
