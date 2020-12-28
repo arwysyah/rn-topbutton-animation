@@ -148,9 +148,9 @@ title must have length at least 2 and maximum 4
 
 ## Project Documentation
 
-<p align="center">
-  <img src="assets/screen.gif" width=200 height=300/>
-</p>
+<!-- <p align="center"> -->
+  <img src="assets/notfound.jpg" width=200 height=300/>
+<!-- </p> -->
 
 - Author Account
 
