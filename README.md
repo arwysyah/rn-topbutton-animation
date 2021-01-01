@@ -39,7 +39,7 @@ https://www.npmjs.com/package/rn-topbutton-animation
 ```bash
 
 ## Installation
-Version 1.0.7
+Version 1.0.8
 
 npm install rn-topbutton-animation --save
 
@@ -142,6 +142,7 @@ export default function Check({navigation}) {
 | renderFourthItem  | function  (optional)              | render component                 |
 |            |
 |title        | PropTypes.Array (required) |button title
+|buttonColor        | PropTypes.String (optional) |color for button
 
 note : the amount of render item must same with the length of title.
 title must have length at least 2 and maximum 4
