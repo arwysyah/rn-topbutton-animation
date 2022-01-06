@@ -145,7 +145,7 @@ export default function Check({navigation}) {
 |buttonColor        | PropTypes.String (optional) |color for button
 
 note : the amount of render item must same with the length of title.
-title must have length at least 2 and maximum 4
+title must have length at least 2 and maximum 4 as the length
 
 
 ## Project Documentation
